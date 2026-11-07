@@ -1,0 +1,10 @@
+{
+  "name": "Operación H&H — Safari",
+  "short_name": "Safari H&H",
+  "description": "Un safari de citas para Agus y Hanna",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#171b11",
+  "theme_color": "#252b1a",
+  "lang": "es"
+}
